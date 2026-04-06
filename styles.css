@@ -1,0 +1,14 @@
+#recipe-pic {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#recipe-pic img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
